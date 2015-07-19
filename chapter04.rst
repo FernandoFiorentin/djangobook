@@ -583,8 +583,8 @@ a sintaxe padrão de dicionários Python::
 Básico de Template Tags e Filtros
 =================================
 
-Como já mencionado, the template system ships with built-in tags and
-filters. As seções seguintes fornecem um resumo das tags e filtros mais
+Como já mencionado, o sistema de templates vem com tags e filtros embutidos
+. As seções seguintes fornecem um resumo das tags e filtros mais
 comuns.
 
 Tags
